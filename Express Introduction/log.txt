@@ -1,0 +1,10 @@
+// Versioning In Node Js
+
+Current Version -> "^4.19.2"
+
+
+Last -> 2 (Minor Changes or Optional updates)
+Second -> 19 (Recommended  Bug Fixes (Security) or some feature is added)
+First -> Major Release / Breaking updates
+^ symbol -> ye symbol jiske sath wo change nhi hota for eg ^4.1.10 iska matlab 4 version par hi rehna
+~ symbol -> yai bug  fixes ko bhi change nhi hone deta sirf minor change ko hone deta

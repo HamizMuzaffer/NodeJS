@@ -1,0 +1,4 @@
+REST API  -> JSON
+
+
+GET /users get all users
